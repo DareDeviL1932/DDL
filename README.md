@@ -1,4 +1,4 @@
-# Welcome to:
+Welcome to:
 
 # 𝕯are-𝖽eviᏞ
 
@@ -20,7 +20,7 @@ YANG DIBUTUHKAN
 
 ▬▬▭▬▬▭▬▬▭▬▬▭▬▬▭▬▬▭
 
-Copyright© Bagos
+# Copyright© Bagos
 
 ▬▬▭▬▬▭▬▬▭▬▬▭▬▬▭▬▬▭
 
